@@ -4,8 +4,8 @@
 
 ## Links
 
-Github: [https://github.com/gfmio/hsluv-ts](@gfmio/hsluv-ts)
-NPM: [https://www.npmjs.com/package/hsluv-ts](hsluv-ts)
+* Github: [@gfmio/hsluv-ts](https://github.com/gfmio/hsluv-ts)
+* NPM: [hsluv-ts](https://www.npmjs.com/package/hsluv-ts)
 
 ## Install
 
