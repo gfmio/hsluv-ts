@@ -7,8 +7,12 @@
   "module": "index.mjs",
   "types": "index.d.ts",
   "author": "Frédérique Mittelstaedt <npm@gfm.io> (https://www.gfm.io)",
-  "website": "https://www,gfm.io/open-source/hsluv-ts",
+  "website": "https://github.com/gfmio/hsluv-ts",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gfmio/hsluv-ts.git"
+  },
   "dependencies": {
     "hsluv": "^0.0.3"
   },
