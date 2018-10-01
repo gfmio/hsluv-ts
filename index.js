@@ -12,7 +12,7 @@ var hsluv = require("hsluv");
  */
 function hsluvToHex(_a) {
     var hue = _a[0], saturation = _a[1], lightness = _a[2];
-    return hsluv.hsluvtoHex([hue, saturation, lightness]);
+    return hsluv.hsluvToHex([hue, saturation, lightness]);
 }
 exports.hsluvToHex = hsluvToHex;
 /**
@@ -45,7 +45,7 @@ exports.rgbToHsluv = rgbToHsluv;
  */
 function hpluvToHex(_a) {
     var hue = _a[0], saturation = _a[1], lightness = _a[2];
-    return hsluv.hpluvtoHex([hue, saturation, lightness]);
+    return hsluv.hpluvToHex([hue, saturation, lightness]);
 }
 exports.hpluvToHex = hpluvToHex;
 /**

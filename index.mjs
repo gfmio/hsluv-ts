@@ -9,7 +9,7 @@ const hsluv = require("hsluv");
  * hue is a number between 0 and 360, saturation and lightness are numbers between 0 and 100. This function returns the resulting color as a hex string.
  */
 export function hsluvToHex([hue, saturation, lightness]) {
-    return hsluv.hsluvtoHex([hue, saturation, lightness]);
+    return hsluv.hsluvToHex([hue, saturation, lightness]);
 }
 /**
  * Like above, but returns an array of 3 numbers between 0 and 1, for the r, g, and b channel.
@@ -35,7 +35,7 @@ export function rgbToHsluv([red, green, blue]) {
  * hue is a number between 0 and 360, saturation and lightness are numbers between 0 and 100. This function returns the resulting color as a hex string.
  */
 export function hpluvToHex([hue, saturation, lightness]) {
-    return hsluv.hpluvtoHex([hue, saturation, lightness]);
+    return hsluv.hpluvToHex([hue, saturation, lightness]);
 }
 /**
  * Like above, but returns an array of 3 numbers between 0 and 1, for the r, g, and b channel.
