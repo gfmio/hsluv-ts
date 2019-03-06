@@ -1,7 +1,7 @@
 {
   "name": "hsluv-ts",
   "description": "A wrapper for the HSLUV library with TypeScript definitions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index",
   "browser": "index.js",
   "module": "index.mjs",
