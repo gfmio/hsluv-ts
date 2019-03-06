@@ -1,11 +1,5 @@
 # Created by https://www.gitignore.io/api/node,linux,macos,windows
 
-index.d.ts
-index.js
-index.js.map
-index.mjs
-index.mjs.map
-
 ### Linux ###
 *~
 

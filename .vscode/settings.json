@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true
+  },
+  "markdownlint.config": {
+    "list-marker-space": false,
+    "no-inline-html": false
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
